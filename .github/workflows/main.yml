@@ -7,6 +7,7 @@ on:
     branches:
       - main        
 
+
 jobs:
   delete_all_releases:
     runs-on: ubuntu-latest
